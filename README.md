@@ -1,7 +1,3 @@
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/67209277?v=4"  />
-
-###
-
 <h2 align="left">Olá! Eu sou o Adriel</h2>
 
 ###
