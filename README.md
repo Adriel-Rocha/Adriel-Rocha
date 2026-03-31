@@ -99,8 +99,11 @@ I'm currently looking for a **Junior Developer position** where I can:
 
 ## 📈 Estatísticas do GitHub
 
-![Adriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adriel-Rocha&show_icons=true&theme=dark&custom_title=Stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel-Rocha&layout=compact&theme=dark&custom_title=Languages)
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adriel-Rocha&theme=github_dark" />
+  </div>
+</div>
 
 ---
 
